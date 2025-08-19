@@ -18,3 +18,12 @@ Getting Started and learning from **`Sriniously`** YT channel(currently at 9.82K
   - 47:00 - go build
   - 51:48 - packages
   - 1:00:25 - functions
+
+## Part2
+
+- Topics covered and [Notes](https://github.com/abhimvp/GoBasics/blob/main/Part2/README.md) taken in detail on:
+  - 1:09:12 - variables
+  - 1:37:04 - loops
+  - 1:44:15 - conditions
+  - 1:47:47 - switches
+  - 1:50:00 - defer
