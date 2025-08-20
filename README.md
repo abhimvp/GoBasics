@@ -27,3 +27,17 @@ Getting Started and learning from **`Sriniously`** YT channel(currently at 9.82K
   - 1:44:15 - conditions
   - 1:47:47 - switches
   - 1:50:00 - defer
+
+## Part3
+
+- Topics covered and Notes taken in detail on:
+  - 2:03:27 - reference types
+  - 2:10:00 - struct
+  - 2:22:34 - arrays
+  - 2:25:34 - slices
+  - 2:59:15 - append on slices
+  - 3:17:33 - loop over slices (ranges)
+  - 3:18:40 - codebase examples of slices
+  - 3:19:30 - maps
+  - 3:30:40 - when to use maps and structs
+  - 3:33:10 - codebase example of maps
