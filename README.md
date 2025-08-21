@@ -41,3 +41,14 @@ Getting Started and learning from **`Sriniously`** YT channel(currently at 9.82K
   - 3:19:30 - maps
   - 3:30:40 - when to use maps and structs
   - 3:33:10 - codebase example of maps
+
+## Part4
+
+- Topics covered and Notes taken in detail on:
+  - 3:34:10 - anonymous functions
+  - 3:37:34 - closure
+  - 3:42:21 - methods
+  - 4:02:14 - interface
+  - 4:46:40 - generics
+  - 4:53:57 - concurrency
+  - 5:51:58 - outro

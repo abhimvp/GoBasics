@@ -205,5 +205,3 @@ Note: If elem or ok have not yet been declared you could use a short declaration
 elem, ok := m[key]
 
 - NEVER USE var to declare a map
-
-
