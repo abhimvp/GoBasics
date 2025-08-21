@@ -49,6 +49,6 @@ Getting Started and learning from **`Sriniously`** YT channel(currently at 9.82K
   - 3:37:34 - closure
   - 3:42:21 - methods
   - 4:02:14 - interface
-  - 4:46:40 - generics
-  - 4:53:57 - concurrency
-  - 5:51:58 - outro
+  - 4:46:40 - generics - Part 5
+  - 4:53:57 - concurrency - Part 5
+  - 5:51:58 - outro - Part 5
